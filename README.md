@@ -1,7 +1,7 @@
 # 💉 TRSQL - TÜRKÇE SQL İNJECTİON ARACI
 
 # 📱 TERMUX KURULUM
-```bash
+```
 pkg update && pkg upgrade
 ```
 ```
