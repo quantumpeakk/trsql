@@ -1,1 +1,3 @@
-# trsql
+# TRSQL - TÜRKÇE SQL İNJECTİON ARACI
+
+# TERMUX KURULUM
