@@ -9,7 +9,7 @@
 - Anlaması kolay çıktılar
 
 
-# 📱 TERMUX KURULUM
+## 📱 TERMUX KURULUM
 ```
 pkg update && pkg upgrade
 ```
