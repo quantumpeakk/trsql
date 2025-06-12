@@ -1,3 +1,7 @@
-# TRSQL - TÜRKÇE SQL İNJECTİON ARACI
+# 💉 TRSQL - TÜRKÇE SQL İNJECTİON ARACI
 
-# TERMUX KURULUM
+# 📱 TERMUX KURULUM
+```bash
+pkg update && pkg upgrade
+pkg install python git
+pip install requests bs4
