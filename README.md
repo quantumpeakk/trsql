@@ -21,6 +21,15 @@ pkg install python
 ```
 ```
 pip install requests bs4
+```
+```
+git clone https://github.com/quantumpeakk/trsql.git
+```
+```
+cd trsql
+```
+```
+python trsql.py
 
 ```
 ## ⚠️ Uyarılar
